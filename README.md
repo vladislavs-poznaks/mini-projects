@@ -1,2 +1,2 @@
 # Mini Projects
-Games &amp; other fun stuff
+Games &amp; Other fun stuff
